@@ -1,0 +1,5 @@
+﻿  ANN.cpp
+c:\project\opencv\ann\ann\ann.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\project\opencv\ann\ann\ann.cpp(226): warning C4101: “labelNum”: 未引用的局部变量
+c:\project\opencv\ann\ann\ann.cpp(226): warning C4101: “featureNum”: 未引用的局部变量
+  ANN.vcxproj -> C:\Project\opencv\ANN\Debug\ANN.exe

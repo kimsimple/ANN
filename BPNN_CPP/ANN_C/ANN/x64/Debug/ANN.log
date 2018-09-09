@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\project\opencv\ann_c\ann\main.cpp(56): warning C4101: “endTime”: 未引用的局部变量
+c:\project\opencv\ann_c\ann\main.cpp(56): warning C4101: “startTime”: 未引用的局部变量
+  ANN.vcxproj -> C:\Project\opencv\ANN_C\x64\Debug\ANN.exe
